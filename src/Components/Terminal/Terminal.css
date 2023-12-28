@@ -1,0 +1,61 @@
+.templatecontent{
+    display: flex;
+    max-width: 1200px;
+    margin: auto;
+    padding-top: 30px;
+}
+.platforminfo{
+    border-bottom: 1px solid rgb(219, 215, 215);
+    width: 800px;
+}
+.platforminfo1{
+    border-bottom: 1px solid rgb(219, 215, 215);
+    width: 400px;
+
+}
+.template{
+    width:700px;
+    height:400px ;
+    padding: 30px;
+    font-size: 20px;
+    outline: none;
+    border: none;
+    background-color:rgb(238, 236, 236);
+}
+.platform{
+    margin-right: 30px;
+}
+.platforminfo{
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+}
+.table{
+    padding: 9px;
+  
+}
+.table th,td{
+    padding: 9px;
+    
+}
+.table tr{
+    border: 1px solid green;
+}
+table,
+th,
+td {
+  padding: 10px;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+.queriescontent a{
+    text-decoration: none;
+}
+.button{
+    cursor: pointer;
+   
+
+}
+.button:hover{
+    background-color: rgb(94, 94, 189);
+}
